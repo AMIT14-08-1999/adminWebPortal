@@ -22,6 +22,8 @@ samples, guidance on mobile development, and a full API reference.
 
 -- https://github.com/AMIT14-08-1999/Amazon_Admin_Panel
 
+-----------------------DEMO-----------------------------
+
  https://user-images.githubusercontent.com/72166353/182932029-1d8ae9ed-fb11-4d72-bced-4d9673ac0734.mp4
  
  https://user-images.githubusercontent.com/72166353/182932156-e33fbdf2-eb03-471a-a8c7-b67a8cac1446.mp4
